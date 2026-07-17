@@ -112,7 +112,7 @@ Transformer-based OCR model for recognizing ancient Tamil palm-leaf manuscripts.
 
 - Deep Learning based OCR
 - Ancient script recognition
-- Research presented at PACLIC 39
+- Research presented at PACLIC 39, Hanoi, Vietnam
 - Fine-tuned Transformer model
 
 </td>
@@ -120,39 +120,6 @@ Transformer-based OCR model for recognizing ancient Tamil palm-leaf manuscripts.
 </tr>
 
 </table>
-
-## Featured Projects
-
-### Smart Security Logging Framework
-
-> Cloud-native security framework for Kubernetes environments with intelligent threat detection.
-
-**Stack:** Kubernetes • Docker • Falco • OpenSearch • Grafana • ML • LLM
-
----
-
-### TCE Staff Bus Pass System
-
-> Digital payment platform processing ₹10L+ annual transactions.
-
-**Stack:** React • Node.js • Firebase • ICICI Eazypay
-
----
-
-### Thiagarajar Research Fellowship System
-
-> Fellowship management platform handling ₹1.7Cr+ annual research claims.
-
-**Stack:** React • Node.js • Firebase • Render
-
----
-
-### Ancient Tamil OCR
-
-> Transformer-based OCR system for ancient Tamil manuscript recognition.
-
-**Stack:** Python • TensorFlow • OpenCV • Transformers
----
 
 ## GitHub Statistics
 
@@ -204,23 +171,24 @@ Transformer-based OCR model for recognizing ancient Tamil palm-leaf manuscripts.
 - Placement Representative
 
 ---
-
 ## Connect
 
-Portfolio
+<p align="center">
+  <a href="https://aswin-stack.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-https://aswin-stack.web.app
+  <a href="https://www.linkedin.com/in/aswin302021" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-LinkedIn
+  <a href="https://github.com/aswin-git-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-https://linkedin.com/in/aswin302021
-
-GitHub
-
-https://github.com/aswin-git-dev
-
-Email
-
-tceaswin@gmail.com
+  <a href="mailto:tceaswin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
