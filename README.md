@@ -34,92 +34,63 @@ Experienced in building scalable web applications, cloud-native microservices, K
 
 ## Featured Projects
 
-<table>
-
-<tr>
-<td width="50%">
-
 ### Smart Security Logging Framework
 
-Cloud-native security platform for real-time threat detection across Kubernetes microservices.
+> Cloud-native security framework for real-time log analysis and cyber threat detection in Kubernetes microservices.
 
-**Tech Stack**
+<p>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=falco,grafana,opensearch" height="48"/>
+</p>
 
-`Kubernetes` `Docker` `Falco` `Grafana` `OpenSearch` `Machine Learning` `LLM`
+**Tech:** Kubernetes • Docker • Falco • Grafana • OpenSearch • Machine Learning • LLM
 
-**Highlights**
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aswin-git-dev&repo=YOUR_REPO_NAME&theme=transparent&hide_border=true"/>
 
-- Real-time security log collection
-- Threat detection using ML
-- Container runtime monitoring
-- Centralized log visualization
+---
 
-</td>
+### TCE Staff Bus Pass Payment System
 
-<td width="50%">
+> Production-ready digital payment platform for managing staff bus pass transactions.
 
-### TCE Staff Bus Pass System
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=render" height="48"/>
+</p>
 
-Enterprise payment platform for managing digital bus pass payments.
+**Tech:** React • Node.js • Firebase • ICICI Eazypay
 
-**Tech Stack**
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aswin-git-dev&repo=YOUR_REPO_NAME&theme=transparent&hide_border=true"/>
 
-`React` `Node.js` `Firebase` `ICICI Eazypay`
-
-**Highlights**
-
-- Production deployment
-- ₹10L+ annual transaction processing
-- Secure online payment integration
-- Role-based management
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+---
 
 ### Thiagarajar Research Fellowship System
 
-Research grant management portal for faculty and researchers.
+> Research grant management platform supporting claim processing and workflow automation.
 
-**Tech Stack**
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=render" height="48"/>
+</p>
 
-`React` `Node.js` `Firebase` `Render`
+**Tech:** React • Node.js • Firebase • Render
 
-**Highlights**
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aswin-git-dev&repo=YOUR_REPO_NAME&theme=transparent&hide_border=true"/>
 
-- 200+ active users
-- ₹1.7Cr annual claim management
-- Automated approval workflow
-- Cloud deployment
-
-</td>
-
-<td width="50%">
+---
 
 ### Ancient Tamil OCR
 
-Transformer-based OCR model for recognizing ancient Tamil palm-leaf manuscripts.
+> Transformer-based OCR system for recognizing ancient Tamil palm-leaf manuscripts.
 
-**Tech Stack**
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="48"/>
+</p>
 
-`Python` `TensorFlow` `Transformers` `OpenCV`
+**Tech:** Python • TensorFlow • Transformers • OpenCV
 
-**Highlights**
-
-- Deep Learning based OCR
-- Ancient script recognition
-- Research presented at PACLIC 39, Hanoi, Vietnam
-- Fine-tuned Transformer model
-
-</td>
-
-</tr>
-
-</table>
+---
 
 ## GitHub Statistics
 
@@ -136,16 +107,6 @@ Transformer-based OCR model for recognizing ancient Tamil palm-leaf manuscripts.
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=aswin-git-dev&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswin-git-dev&theme=github-compact&hide_border=true"/>
 
 </p>
 
