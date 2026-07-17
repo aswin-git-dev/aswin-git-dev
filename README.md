@@ -31,146 +31,29 @@ Experienced in building scalable web applications, cloud-native microservices, K
 </p>
 
 ---
-
-## Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Smart Security Logging Framework
-
-<a href="https://github.com/aswin-git-dev/HPE-CPP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aswin-git-dev&repo=HPE-CPP&theme=transparent&hide_border=true"/>
-</a>
-
-<p>
-<img src="https://skillicons.dev/icons?i=kubernetes,docker"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=falco,grafana,opensearch" height="48"/>
-</p>
-
-Cloud-native security logging framework for real-time threat detection across Kubernetes microservices.
-
-| Metric | Value |
-|--------|------:|
-| Team Size | 5 |
-| Program | HPE Career Preview Program |
-| Architecture | Cloud-Native Microservices |
-| Orchestration | Kubernetes |
-| Runtime Security | Falco |
-| Log Analytics | OpenSearch |
-| Visualization | Grafana |
-| AI Components | Machine Learning, LLM |
-
-</td>
-
-<td width="50%" valign="top">
-
-### TCE Staff Bus Pass Payment System
-
-<a href="https://github.com/aswin-git-dev/StaffBusPass">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aswin-git-dev&repo=StaffBusPass&theme=transparent&hide_border=true"/>
-</a>
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,firebase"/>
-</p>
-
-Digital payment platform for staff transportation.
-
-| Metric | Value |
-|--------|------:|
-| Team Size | 3 |
-| Annual Transactions | ₹10+ Lakh |
-| Payment Gateway | ICICI Eazypay |
-| Deployment | Production |
-| Frontend | React.js |
-| Backend | Node.js |
-| Database | Firebase |
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Thiagarajar Research Fellowship System
-
-<a href="https://github.com/aswin-git-dev/TRF">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aswin-git-dev&repo=TRF&theme=transparent&hide_border=true"/>
-</a>
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,firebase"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=render" height="48"/>
-</p>
-
-Research fellowship management platform.
-
-| Metric | Value |
-|--------|------:|
-| Team Size | 3 |
-| Active Users | 200+ |
-| Annual Claims | ₹1.7+ Crore |
-| Hosting | Render |
-| Frontend | React.js |
-| Backend | Node.js |
-| Database | Firebase |
-
-</td>
-
-<td width="50%" valign="top">
-
-### Ancient Tamil OCR
-
-<a href="https://github.com/aswin-git-dev/Tamili">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aswin-git-dev&repo=Tamili&theme=transparent&hide_border=true"/>
-</a>
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,opencv" height="48"/>
-</p>
-
-Transformer-based OCR for Ancient Tamil Palm Leaf Character Recognition.
-
-| Metric | Value |
-|--------|------:|
-| Institution | NIT Tiruchirappalli |
-| Research Duration | 12 Weeks |
-| Publication | PACLIC 39 |
-| Conference | Hanoi, Vietnam |
-| Model | Transformer-based OCR |
-| Framework | TensorFlow |
-| Vision Library | OpenCV |
-
-</td>
-
-</tr>
-
-</table>
 ## GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aswin-git-dev&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin-git-dev&layout=compact&theme=transparent&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aswin-git-dev&theme=github_dark"/>
 
 </p>
-
----
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=aswin-git-dev&theme=transparent&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aswin-git-dev&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aswin-git-dev&theme=github_dark"/>
 
 </p>
 
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aswin-git-dev&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aswin-git-dev&theme=github_dark&utcOffset=5.5"/>
+
+</p>
 ---
 
 ## Contribution Snake
