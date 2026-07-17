@@ -34,64 +34,125 @@ Experienced in building scalable web applications, cloud-native microservices, K
 
 ## Featured Projects
 
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
 ### Smart Security Logging Framework
 
-> Cloud-native security framework for real-time log analysis and cyber threat detection in Kubernetes microservices.
+<a href="https://github.com/aswin-git-dev/HPE-CPP">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aswin-git-dev&repo=HPE-CPP&theme=transparent&hide_border=true"/>
+</a>
 
 <p>
-<img src="https://skillicons.dev/icons?i=kubernetes,docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes,docker"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=falco,grafana,opensearch" height="48"/>
 </p>
 
-**Tech:** Kubernetes • Docker • Falco • Grafana • OpenSearch • Machine Learning • LLM
+Cloud-native security logging framework for real-time threat detection across Kubernetes microservices.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aswin-git-dev&repo=YOUR_REPO_NAME&theme=transparent&hide_border=true"/>
+| Metric | Value |
+|--------|------:|
+| Team Size | 5 |
+| Program | HPE Career Preview Program |
+| Architecture | Cloud-Native Microservices |
+| Orchestration | Kubernetes |
+| Runtime Security | Falco |
+| Log Analytics | OpenSearch |
+| Visualization | Grafana |
+| AI Components | Machine Learning, LLM |
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### TCE Staff Bus Pass Payment System
 
-> Production-ready digital payment platform for managing staff bus pass transactions.
+<a href="https://github.com/aswin-git-dev/StaffBusPass">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aswin-git-dev&repo=StaffBusPass&theme=transparent&hide_border=true"/>
+</a>
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,firebase" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=render" height="48"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase"/>
 </p>
 
-**Tech:** React • Node.js • Firebase • ICICI Eazypay
+Digital payment platform for staff transportation.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aswin-git-dev&repo=YOUR_REPO_NAME&theme=transparent&hide_border=true"/>
+| Metric | Value |
+|--------|------:|
+| Team Size | 3 |
+| Annual Transactions | ₹10+ Lakh |
+| Payment Gateway | ICICI Eazypay |
+| Deployment | Production |
+| Frontend | React.js |
+| Backend | Node.js |
+| Database | Firebase |
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### Thiagarajar Research Fellowship System
 
-> Research grant management platform supporting claim processing and workflow automation.
+<a href="https://github.com/aswin-git-dev/TRF">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aswin-git-dev&repo=TRF&theme=transparent&hide_border=true"/>
+</a>
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,firebase" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=render" height="48"/>
 </p>
 
-**Tech:** React • Node.js • Firebase • Render
+Research fellowship management platform.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aswin-git-dev&repo=YOUR_REPO_NAME&theme=transparent&hide_border=true"/>
+| Metric | Value |
+|--------|------:|
+| Team Size | 3 |
+| Active Users | 200+ |
+| Annual Claims | ₹1.7+ Crore |
+| Hosting | Render |
+| Frontend | React.js |
+| Backend | Node.js |
+| Database | Firebase |
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### Ancient Tamil OCR
 
-> Transformer-based OCR system for recognizing ancient Tamil palm-leaf manuscripts.
+<a href="https://github.com/aswin-git-dev/Tamili">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aswin-git-dev&repo=Tamili&theme=transparent&hide_border=true"/>
+</a>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="48"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,opencv" height="48"/>
 </p>
 
-**Tech:** Python • TensorFlow • Transformers • OpenCV
+Transformer-based OCR for Ancient Tamil Palm Leaf Character Recognition.
 
----
+| Metric | Value |
+|--------|------:|
+| Institution | NIT Tiruchirappalli |
+| Research Duration | 12 Weeks |
+| Publication | PACLIC 39 |
+| Conference | Hanoi, Vietnam |
+| Model | Transformer-based OCR |
+| Framework | TensorFlow |
+| Vision Library | OpenCV |
 
+</td>
+
+</tr>
+
+</table>
 ## GitHub Statistics
 
 <p align="center">
