@@ -31,30 +31,6 @@ Experienced in building scalable web applications, cloud-native microservices, K
 </p>
 
 ---
-## GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aswin-git-dev&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aswin-git-dev&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aswin-git-dev&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aswin-git-dev&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aswin-git-dev&theme=github_dark&utcOffset=5.5"/>
-
-</p>
----
 
 ## Contribution Snake
 
