@@ -116,7 +116,7 @@ Experienced in building scalable web applications, cloud-native microservices, K
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/aswin-git-dev/aswin-git-dev/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/aswin-git-dev/aswin-git-dev/output/snake.svg" alt="Contribution Snake Animation" />
 
 </p>
 
