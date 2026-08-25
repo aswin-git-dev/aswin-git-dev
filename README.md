@@ -55,9 +55,9 @@ Experienced in building scalable web applications, cloud-native microservices, K
 ## Connect
 
 <p align="center">
-  <a href="https://aswin-stack.web.app" target="_blank">
+  <!-- <a href="https://aswin-stack.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  </a> -->
 
   <a href="https://www.linkedin.com/in/aswin302021" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
